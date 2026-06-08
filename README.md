@@ -2,7 +2,7 @@
 
 A self-contained, single-file sales analytics dashboard. No build step, no install, no dependencies to manage. Drop `index.html` into a repo and it works.
 
-🔗 **[Live Demo](https://kumarsinghujjwal29-bit.github.io/Sales_dashboard/)** ← replace with your URL
+🔗 **[Live Demo](https://kumarsinghujjwal29-bit.github.io/Sales_dashboard/)** 
 
 ---
 
